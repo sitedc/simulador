@@ -648,7 +648,7 @@
     </div>
 
     <!-- FLOATING WHATSAPP BUTTON -->
-    <a href="https://wa.me/5598984533013?text=Ol%C3%A1!%20Gostaria%20de%20fazer%20uma%20simula%C3%A7%C3%A3o%20de%20cr%C3%A9dito." target="_blank" rel="noopener noreferrer" class="fixed bottom-20 md:bottom-6 right-6 z-50 bg-emerald-500 hover:bg-emerald-600 text-white p-3.5 md:p-4 rounded-full shadow-2xl transition-all transform hover:scale-110 flex items-center justify-center group" title="Falar no WhatsApp">
+    <a href="https://wa.me/5598984134221?text=Ol%C3%A1!%20Gostaria%20de%20fazer%20uma%20simula%C3%A7%C3%A3o%20de%20cr%C3%A9dito." target="_blank" rel="noopener noreferrer" class="fixed bottom-20 md:bottom-6 right-6 z-50 bg-emerald-500 hover:bg-emerald-600 text-white p-3.5 md:p-4 rounded-full shadow-2xl transition-all transform hover:scale-110 flex items-center justify-center group" title="Falar no WhatsApp">
         <i class="fa-brands fa-whatsapp text-2xl md:text-3xl"></i>
         <span class="max-w-0 overflow-hidden whitespace-nowrap group-hover:max-w-xs transition-all duration-500 ease-in-out text-sm font-bold pl-0 group-hover:pl-2">
             Falar no WhatsApp (98) 98453-3013
