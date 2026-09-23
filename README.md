@@ -691,7 +691,7 @@
 
     <script>
         // PHONE NUMBER CONFIGURATION
-        const WHATSAPP_PHONE = "5598984533013";
+        const WHATSAPP_PHONE = "5598984134221";
 
         // MÁSCARA PARA CPF
         function maskCPF(input) {
